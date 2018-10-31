@@ -29,7 +29,7 @@ echo $R.  "#############################\n";
 echo $R.  "   #### BOM TELPON ####\n";
 echo $R.  "#############################\n";
 echo $Y.        " Author : Clnx777\n";
-echo $Y.        " Github : https://github.com/andrachocs\n\n";
+echo $Y.        " Github : https://github.com/Clnx777\n\n";
 echo            "//limit 3x setiap satu no tlpon//\n";
 echo "Masukan Nomor tlpn\n";
 echo "Nomor : ";
